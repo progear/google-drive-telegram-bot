@@ -6,6 +6,8 @@ class config:
     SUDO_USERS = "498295442 1806918620" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/HJ8Kh_1YxblkMTk1"
     DOWNLOAD_DIRECTORY = "./downloads/"
+    G_DRIVE_CLIENT_ID = ""
+    G_DRIVE_CLIENT_SECRET = ""
 
 class BotCommands:
   Download = ['download', 'dl']
